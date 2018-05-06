@@ -114,19 +114,7 @@ public class DogHotel {
 			
 			System.out.println(dog.getName() + "\t\tis " + dog.getAge() + " years old" + ", does " + (dog.getDoesBite() ? "" : "not ")
 					+ "bite, is " + (dog.getIsDirty() ? "not " : "") + "dirty and will stay for " + dog.getDays() + " days more.");
-			
-			/*System.out.println("Name: " + dog.getName());
-			
-			
-			System.out.println("Age: " + dog.getAge());
-			
-			System.out.println("Dirty: " + dog.getIsDirty());
-			
-			System.out.println("Bites: " + dog.getDoesBite());
-			
-			System.out.println("Days to stay: " + dog.getDays());
-			
-			System.out.println(""); */
+
 			
 		}
 		
