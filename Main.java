@@ -89,15 +89,6 @@ public class Main {
 			    dogHotel.nextDay();
 		    
 		    }
-		    
-		    
-		    /*dogHotel.addDog(new Dog("Snorkel", 5, true, false, 3));
-		    dogHotel.addDog(new Dog("Douglas", 3, false, false, 4));
-		    dogHotel.addDog(new Dog("Molly", 6, false, false, 2));
-		    dogHotel.addDog(new Dog("Bea", 2, false, false, 4));
-		    dogHotel.addDog(new Dog("Fia", 3, true, false, 2));
-		    dogHotel.addDog(new Dog("Marionette", 5, false, false, 2)); */
-		    
 			
 		} catch (FileNotFoundException f) {
 			
