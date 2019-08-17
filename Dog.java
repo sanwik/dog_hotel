@@ -53,7 +53,7 @@ public class Dog {
     	
     	   this.days = amount;
     	   
-    	}
+    }
     
     public void clean() {
         
