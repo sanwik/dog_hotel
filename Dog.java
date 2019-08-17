@@ -51,7 +51,7 @@ public class Dog {
     
     public void setDays (int amount) {
     	
-	his.days = amount;
+	this.days = amount;
     	   
     }
     
